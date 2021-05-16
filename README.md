@@ -1,4 +1,4 @@
-Rest API for burgers made with json-Server.
+Mock API for burgers made with json-Server.
 
 Installation:
 1. npm install.
